@@ -6,7 +6,12 @@ No license at present for use, modify or share.
 
 2 Run read_uktradeinfo_names.py, generates three different files
 
-... then either skip bracketed steps, or
+... then either
+
+3 Run generate_summary.py and skip bracketed steps,
+
+or
+
 (
 3 Download companies house DB files
 
